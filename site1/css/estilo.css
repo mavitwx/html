@@ -1,5 +1,6 @@
 body{
-    background-color: #d1ecff;
+    background-color: #e4dec7;
+    font-family: Arial;
 }
 .center {
     text-align:center;
@@ -13,4 +14,8 @@ body{
 }
 .fonte21 {
     font-size:21px;
+}
+mark{
+    background-color: #b6bdff;
+    color: black;
 }
